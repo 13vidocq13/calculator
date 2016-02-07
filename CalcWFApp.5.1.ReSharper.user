@@ -1,0 +1,167 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="textBoxAction" priority="2" />
+      <Item value="textBoxResult" priority="1" />
+      <Item value="int" priority="5" />
+      <Item value="string" priority="8" />
+      <Item value="public" priority="12" />
+      <Item value="return" priority="16" />
+      <Item value="result" priority="1" />
+      <Item value="Action`0" priority="0" />
+      <Item value="actionString" priority="11" />
+      <Item value="ViewModel`0" priority="1" />
+      <Item value="viewModel" priority="10" />
+      <Item value="new" priority="0" />
+      <Item value="ViewModel" priority="0" />
+      <Item value="void" priority="13" />
+      <Item value="IFormatProvider`0" priority="0" />
+      <Item value="if" priority="13" />
+      <Item value="digit" priority="6" />
+      <Item value="UpdateResult`0" priority="6" />
+      <Item value="enum" priority="0" />
+      <Item value="Operator`0" priority="15" />
+      <Item value="currentOperator" priority="4" />
+      <Item value="switch" priority="0" />
+      <Item value="case" priority="5" />
+      <Item value="default" priority="0" />
+      <Item value="OperatorsTransformView`0" priority="2" />
+      <Item value="resultString" priority="24" />
+      <Item value="Result" priority="0" />
+      <Item value="DigitTransform`0" priority="8" />
+      <Item value="currentArgumentString" priority="15" />
+      <Item value="lastSymbolIsOperator" priority="3" />
+      <Item value="else" priority="1" />
+      <Item value="resultCurrent" priority="5" />
+      <Item value="firstArgument" priority="11" />
+      <Item value="secondArgument" priority="10" />
+      <Item value="null" priority="21" />
+      <Item value="static" priority="1" />
+      <Item value="double" priority="8" />
+      <Item value="do" priority="0" />
+      <Item value="Calculate`0" priority="1" />
+      <Item value="AddOperator`0" priority="0" />
+      <Item value="AddArgument`0" priority="2" />
+      <Item value="currentArgument" priority="19" />
+      <Item value="Root" priority="0" />
+      <Item value="true" priority="3" />
+      <Item value="CheckCalc`0" priority="0" />
+      <Item value="isRootOrOneX" priority="5" />
+      <Item value="false" priority="5" />
+      <Item value="lastOperator" priority="0" />
+      <Item value="Equals" priority="0" />
+      <Item value="isEqual" priority="6" />
+      <Item value="ResetFlags`0" priority="4" />
+      <Item value="System" priority="0" />
+      <Item value="_resultString" priority="0" />
+      <Item value="_actionString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CalcWFApp.ViewModel">
+      <Item value="AddDigit`0" priority="0" />
+      <Item value="Result" priority="0" />
+      <Item value="ActionString" priority="0" />
+      <Item value="AddOperator`0" priority="0" />
+      <Item value="AddOperatorRoot`0" priority="0" />
+      <Item value="OperatorEquals`0" priority="0" />
+      <Item value="RemoveDigit`0" priority="0" />
+      <Item value="PlusMinus`0" priority="0" />
+      <Item value="C`0" priority="0" />
+      <Item value="CE`0" priority="0" />
+      <Item value="AddComma`0" priority="0" />
+      <Item value="OperatorPercent`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CalcWFApp.Operator">
+      <Item value="Plus" priority="1" />
+      <Item value="Minus" priority="1" />
+      <Item value="Multiply" priority="1" />
+      <Item value="Divide" priority="1" />
+      <Item value="None" priority="0" />
+      <Item value="Root" priority="3" />
+      <Item value="OneX" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Substring`0" priority="1" />
+      <Item value="Length" priority="2" />
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
+      <Item value="IsNullOrEmpty`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="ToString`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Sqrt`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CalcWFApp.Calculate">
+      <Item value="CalculateOperatorRoot`0" priority="0" />
+      <Item value="CalculateOperatorPercent`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:Form1.Designer.cs" caret="18234" fromTop="319" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:Program.cs" caret="317" fromTop="12" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:Form1.cs" caret="4026" fromTop="8" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="2499" fromTop="14" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:Calculate.cs" caret="801" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="4018" fromTop="16" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="1155" fromTop="20" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="896" fromTop="11" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="4404" fromTop="13" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="5335" fromTop="17" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="6524" fromTop="22" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="4360" fromTop="16" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:Form1.cs" caret="4038" fromTop="17" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="4694" fromTop="18" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:Form1.cs" caret="3619" fromTop="17" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:Form1.cs" caret="4038" fromTop="0" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:Form1.cs" caret="3766" fromTop="17" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="4889" fromTop="18" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="4889" fromTop="18" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="4758" fromTop="10" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="1473" fromTop="14" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="4862" fromTop="9" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:Form1.cs" caret="3922" fromTop="17" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="2099" fromTop="11" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:Form1.cs" caret="2946" fromTop="16" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:Calculate.cs" caret="1641" fromTop="27" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:Calculate.cs" caret="1132" fromTop="22" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:Calculate.cs" caret="1344" fromTop="31" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="2845" fromTop="27" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="5052" fromTop="11" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="467" fromTop="10" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:Form1.cs" caret="3126" fromTop="118" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:Form1.cs" caret="4038" fromTop="118" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="5944" fromTop="19" />
+      <File id="D09B832B-469A-405F-87CA-4484619A6D83/f:ViewModel.cs" caret="2966" fromTop="27" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
